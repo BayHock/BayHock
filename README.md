@@ -7,3 +7,4 @@
   <li>Также используя при этом СУБД Dbeaver (MSSQL)</li>
   <li>Для фронтенд разработки пока использую HTML и CSS (позже Blazor или фреймворки Angular, React)</li>
 </ul>
+![Codewars](https://github.r2v.ch/codewars?user=BayHock)
