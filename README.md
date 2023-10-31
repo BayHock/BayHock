@@ -1,3 +1,9 @@
-<h1 align="center">Hi there, I'm Oleg
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h1 align="center">Hi there, I'm Oleg 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="40" height="40" /></h1>
+<h3 align="center">Developer of desktop and web applications</h3>
+<p>Мои текущие навыки:</p>
+<ul>
+  <li>Сейчас я учусь и разрабатываю веб-приложение с помощью фреймворка ASP.NET Core</li>
+  <li>Также используя при этом СУБД Dbeaver (MSSQL)</li>
+  <li>Для фронтенд разработки пока использую HTML и CSS (позже Blazor или фреймворки Angular, React)</li>
+</ul>
